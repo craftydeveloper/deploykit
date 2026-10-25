@@ -1,0 +1,11 @@
+{
+  "name": "deploykit",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "A release workspace for environments, readiness checks, and rollout notes; it does not deploy software.",
+  "scripts": {
+    "test": "node --test",
+    "validate": "node scripts/validate-static-app.mjs"
+  }
+}
