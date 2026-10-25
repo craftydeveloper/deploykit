@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "note": "Synthetic documentation examples; not loaded by the app.",
+  "records": [
+    {
+      "id": "release-1",
+      "title": "Staging readiness",
+      "environment": "staging",
+      "status": "in-review"
+    },
+    {
+      "id": "release-2",
+      "title": "Rollback note",
+      "environment": "production",
+      "status": "planned"
+    }
+  ]
+}
